@@ -1,4 +1,4 @@
-#AetherUHCUtils
-![Logo](https://media.discordapp.net/attachments/624719288980340736/809975069900013628/aetherutils.png)
+### This mod is a custom mod for the AetherUHC modpack.
+### At the moment the mod teleport you to the Nether when you fall of the Aether.
 
-* ### Only for 1.12.2
+Don't ask to update, the mod will stay 1.12.2 only!
