@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aetheruhcutils",
+  "name": "Aether UHC Utils",
+  "description": "A mod for the modpack AetherUHC.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["minemobs"],
+  "credits": "me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
